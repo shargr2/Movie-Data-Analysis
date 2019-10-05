@@ -23,6 +23,7 @@ On PostgreSQL run the *The Magic Table goes to the movies schemas.sql*
 
 ### Step 3
 Run the *Movies_Data_Final_all_movies.ipynb* script 
+Run the *Movies_Data_Final.ipynb* script
 
 ### Step 4
 Run the *Movies_Data_Final_best_movies.ipynb* script
@@ -32,6 +33,7 @@ Run the *Movies_Data_Final_rating.ipynb* script
 
 ## Related Documents
 [Project Proposal](https://docs.google.com/document/d/1m91cAqXloFEgYlMWcU0UZZZWfOqHRfMZ4OY_tpoaBbs/edit#)
+[Google Drive Folder](https://drive.google.com/drive/folders/1F9mFrOl9PtHcXV5tYEC7ztS8ser-nftq?usp=sharing)
 
 ## Data Sources
 ### Data sets:

@@ -21,13 +21,13 @@ On your working directory create a folder named 'Resources' and store all the 'c
 ### Step 2
 On PostgreSQL run the 'The Magic Table goes to the movies schemas.sql'
 
-### Step 2
+### Step 3
 Run the 'Movies_Data_Final_all_movies.ipynb' script 
 
-### Step 3
+### Step 4
 Run the 'Movies_Data_Final_best_movies.ipynb' script
 
-### Step 4
+### Step 5
 Run the 'Movies_Data_Final_rating.ipynb' script
 
 ## Related Documents

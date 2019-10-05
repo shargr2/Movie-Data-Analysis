@@ -14,7 +14,25 @@ This dataset will allow the user to explore the relationships between, budget, r
 
 Since most of our raw data is in CSV form, we will use pandas to import, summarise, selection of specific columns, filter, join and aggregate data. We will then create a master data frame that we will then export to an SQL database. 
 
- 
+## Instructions
+### Step 1
+On your working directory create a folder named 'Resources' and store all the 'csv' file there.
+
+### Step 2
+On PostgreSQL run the 'The Magic Table goes to the movies schemas.sql'
+
+### Step 2
+Run the 'Movies_Data_Final_all_movies.ipynb' script 
+
+### Step 3
+Run the 'Movies_Data_Final_best_movies.ipynb' script
+
+### Step 4
+Run the 'Movies_Data_Final_rating.ipynb' script
+
+## Related Documents
+[Project Proposal](https://docs.google.com/document/d/1m91cAqXloFEgYlMWcU0UZZZWfOqHRfMZ4OY_tpoaBbs/edit#)
+
 ## Data Sources
 ### Data sets:
 Movies data set (movies_metada.csv): all 45,000 movies listed in the Full MovieLens Dataset. The dataset consists of movies released on or before July 2017. Data points include cast, crew, plot keywords, budget, revenue, posters, release dates, languages, production companies, countries, TMDB vote counts and vote averages.

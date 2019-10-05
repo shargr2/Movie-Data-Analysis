@@ -1,3 +1,8 @@
 COPY AND PASTE INTO BROWSER TO ACCESS CSV FILES:
 
 https://drive.google.com/drive/u/0/folders/1F9mFrOl9PtHcXV5tYEC7ztS8ser-nftq
+
+COPY AND PASTE INTO BROWSER TO ACCESS GOOGLE DOC REPORT:
+
+https://docs.google.com/document/d/1m91cAqXloFEgYlMWcU0UZZZWfOqHRfMZ4OY_tpoaBbs/edit#heading=h.h1fvrc42engd
+

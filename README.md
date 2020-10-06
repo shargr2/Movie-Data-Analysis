@@ -1,6 +1,9 @@
 # The-Magic-Table-Goes-To-The-Movies
-Project 2 Final repo
- The Magic Table goes to the movies!
+In this project we constructed a data set with all movies released through the 2015 (88th) Academy Awards, This dataset had three major tables: List of movies, budget, production company, release date, revenue. Oscars Nominees and Winners: a table with all nominees and winners (for the best movie category) from 1927 through the 2015 (88th) Academy Awards. Reviews: a table with 26 million ratings from 270,000 users
+
+This dataset allow the user to explore the relationships between, budget, revenue, awards, and the average rating.
+
+Since most of our raw data was in CSV form, we used pandas to import, summarise, selection of specific columns, filter, join and aggregate data. We then created a master data frame that we exported to an SQL database. 
 
 ## Team Members:
 Ann, David, Shaena, Tomás
